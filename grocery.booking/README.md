@@ -16,8 +16,8 @@ This is a Spring Boot application for managing grocery orders.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/grocery-booking.git
-    cd grocery-booking
+    git clone https://github.com/debleenamkj/qp-assessment.git
+    cd grocery.booking
     ```
 
 2. Build the Docker image:
